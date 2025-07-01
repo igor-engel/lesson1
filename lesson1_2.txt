@@ -1,2 +1,3 @@
 fun with branches
 some comment1
+some comment2
