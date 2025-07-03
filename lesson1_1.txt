@@ -1,3 +1,3 @@
 hello world from loc_rep
-hello world from IDEA (red_m)
+hello world from IDEA (red_b_w_c)
 hello world from github
